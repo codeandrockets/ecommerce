@@ -55,8 +55,8 @@ return [
     |
     */
 
-    'from' => ['address' => env('MAIL_FROM'), 'name' => env('MAIL_NAME')],
-    
+    'from' => ['address' => env('steven.jasionowicz@gmail.com'), 'name' => env('EssentialOils')],
+
     /*
     |--------------------------------------------------------------------------
     | E-Mail Encryption Protocol
